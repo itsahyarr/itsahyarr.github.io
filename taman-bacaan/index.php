@@ -22,7 +22,7 @@
 		<!-- Nav -->
 			<nav id="menu">
 				<ul class="links">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li><a href="#">About</a></li>
 					<li><a href="#">Contact us</a></li>
 				</ul>
@@ -85,11 +85,10 @@
 						<h2>Buku Terbaru</h2>
 					</header>
 					<div class="grid-style">
-
 						<div>
 							<div class="box">
 								<div class="image fit">
-									<img src="images/novel-new1.jpg" alt="" />
+									<img src="images/recent-novel1.jpg" alt="" />
 								</div>
 								<div class="content">
 									<header class="align-center">
@@ -112,7 +111,7 @@
 						<div>
 							<div class="box">
 								<div class="image fit">
-									<img src="images/novel-new2.jpg" alt="" />
+									<img src="images/recent-novel2.jpg" alt="" />
 								</div>
 								<div class="content">
 									<header class="align-center">
@@ -145,24 +144,21 @@
 			<section id="three" class="wrapper style2">
 				<div class="inner">
 					<header class="align-center">
-						<!--<p class="special">Nam vel ante sit amet libero scelerisque facilisis eleifend vitae urna</p>-->
-						<h2>KATALOG BUKU</h2>
 						<p class="special">cari buku berdasarkan katalog yang tersedia</p>
+						<h2>KATALOG BUKU</h2>
 					</header>
 					<div class="gallery">
 						<div>
 							<div class="box">
 								<div class="image fit">
-									<img src="images/novel1.jpg" alt="" />
+									<img src="images/cat01.jpg" alt="" />
 								</div>
 								<div class="content">
 									<header class="align-center">
-										<!--<p>sebuah buku karya nurul izzah andini</p>-->
-										<h2>Kategori 1</h2>
+										<h2>Sains dan Teknologi</h2>
 									</header>
-									<!--<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>-->
 									<footer class="align-center">
-										<a href="#" class="button alt">Learn More</a>
+										<a href="saintek.html" class="button alt">Learn More</a>
 									</footer>
 								</div>
 							</div>
@@ -170,16 +166,14 @@
 						<div>
 							<div class="box">
 								<div class="image fit">
-									<img src="images/novel2.jpg" alt="" />
+									<img src="images/cat02.jpg" alt="" />
 								</div>
 								<div class="content">
 									<header class="align-center">
-										<!--<p>sebuah buku karya nurul izzah andini</p>-->
-										<h2>Kategori 2</h2>
+										<h2>Dongeng dan Fiksi</h2>
 									</header>
-									<!--<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>-->
 									<footer class="align-center">
-										<a href="#" class="button alt">Learn More</a>
+										<a href="fiksi.html" class="button alt">Learn More</a>
 									</footer>
 								</div>
 							</div>
@@ -187,16 +181,14 @@
 						<div>
 							<div class="box">
 								<div class="image fit">
-									<img src="images/novel3.jpg" alt="" />
+									<img src="images/cat03.jpg" alt="" />
 								</div>
 								<div class="content">
 									<header class="align-center">
-										<!--<p>sebuah buku karya nurul izzah andini</p>-->
-										<h2>Kategori 3</h2>
+										<h2>Novel</h2>
 									</header>
-									<!--<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>-->
 									<footer class="align-center">
-										<a href="#" class="button alt">Learn More</a>
+										<a href="novel.html" class="button alt">Learn More</a>
 									</footer>
 								</div>
 							</div>
@@ -204,16 +196,44 @@
 						<div>
 							<div class="box">
 								<div class="image fit">
-									<img src="images/novel4.jpg" alt="" />
+									<img src="images/cat04.jpg" alt="" />
 								</div>
 								<div class="content">
 									<header class="align-center">
-										<!--<p>sebuah buku karya nurul izzah andini</p>-->
-										<h2>Kategori 4</h2>
+										<h2>Biografi</h2>
 									</header>
-									<!--<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>-->
 									<footer class="align-center">
-										<a href="#" class="button alt">Learn More</a>
+										<a href="biografi.html" class="button alt">Learn More</a>
+									</footer>
+								</div>
+							</div>
+						</div>
+						<div>
+							<div class="box">
+								<div class="image fit">
+									<img src="images/cat05.jpg" alt="" />
+								</div>
+								<div class="content">
+									<header class="align-center">
+										<h2>Bisnis dan Kewirausahaan</h2>
+									</header>
+									<footer class="align-center">
+										<a href="bisnis.html" class="button alt">Learn More</a>
+									</footer>
+								</div>
+							</div>
+						</div>
+						<div>
+							<div class="box">
+								<div class="image fit">
+									<img src="images/cat06.jpg" alt="" />
+								</div>
+								<div class="content">
+									<header class="align-center">
+										<h2>Motivasi dan Pengembangan Diri</h2>
+									</header>
+									<footer class="align-center">
+										<a href="motivasi.html" class="button alt">Learn More</a>
 									</footer>
 								</div>
 							</div>
@@ -261,7 +281,7 @@
 					</ul>
 				</div>
 				<div class="copyright">
-					&copy; itsmyn@github. All rights reserved.
+					&copy; Unknown. All rights reserved.
 				</div>
 			</footer>
 

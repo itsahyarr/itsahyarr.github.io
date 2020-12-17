@@ -6,8 +6,8 @@ $no_hp = $_POST['no_hp'];
 $alamat = $_POST['alamat'];
 $hasil = tambahTb($nama, $no_hp, $alamat);
 if($hasil > 0)
-	header("Location: index.php");
+	header("Location:index.php");
 else {
-	header("Location: gagaltambah.php");
+	header("Location:gagaltambah.php");
 }
 ?>
