@@ -1,2 +1,2 @@
 # itsahyarr.github.io
-Static Web Hosting
+GitHub Pages
